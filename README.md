@@ -1,5 +1,5 @@
 # TURING
-TURING: execuTive fUnction aRtIficial iNtelliGence 
+TURING: execuTive fUnctioning aRtIficial iNtelliGence 
 
 ![image](images/TURING.png)
 
